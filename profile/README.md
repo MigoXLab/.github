@@ -1,7 +1,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/MigoXLab)
 
-Build AI-native engineering system with MigoXLab's tools.
+Build AI native engineering system with MigoXLab's tools.
 
 ## Test Agent
 
